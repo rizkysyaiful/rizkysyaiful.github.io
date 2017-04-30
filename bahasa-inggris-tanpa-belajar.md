@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Rahasia Saya Dapat Nilai TOEFL 534 Tanpa Belajar (& Kenapa Saya Ingin Kamu Juga)"
+title:  "Rahasia Dapat Nilai TOEFL 534 Tanpa Belajar"
 categories:
 permalink: /lancar-bahasa-inggris-tanpa-belajar
 ---
@@ -90,7 +90,8 @@ Saya bisa, dan mau sekali, bantu kamu.
 
 {% include image.html
           img="sales-buku-eel2.jpg"
-          title="Dan tentunya, yang khas dari Metode EEL: cara mudah menonton serial TV dengan subtitle bahasa Inggris." %}
+          title="Belajar Bahasa Inggris Metode EEL"
+          caption="Dan tentunya, yang khas dari Metode EEL: cara mudah menonton serial TV dengan subtitle bahasa Inggris." %}
 
 {% include image.html
           img="sales-buku-eel5.jpg"
