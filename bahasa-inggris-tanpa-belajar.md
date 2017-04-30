@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Rahasia Dapat Nilai TOEFL 534 Tanpa Belajar"
+title:  "Rahasia Saya Dapat Nilai TOEFL 534 Tanpa Belajar (& Kenapa Saya Ingin Kamu Juga)"
 categories:
 permalink: /lancar-bahasa-inggris-tanpa-belajar
 ---
