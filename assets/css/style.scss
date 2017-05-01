@@ -3,6 +3,36 @@
 
 @import "{{ site.theme }}";
 
+/** header & menu */
+.site-header{
+  position: inherit;
+  min-height: inherit;
+  padding-bottom: 3px;
+}
+.site-title{
+  font-size: 26px;
+  float: none;
+}
+.site-sub-title{
+  font-size: 16px;
+  font-weight: bold;
+  color: $grey-color;
+}
+.site-top-menu{
+  margin-top: -16px;
+}
+@media only screen and (max-device-width:480px) {
+    .site-sub-title {
+      display: block;
+      margin-top: -17px;
+    }
+    .site-top-menu {
+      margin-top: -5px;
+    }
+}
+
+
+/** image on text */
 .image-wrapper {
     text-align: center;
 
@@ -11,5 +41,5 @@
         max-width: 500px;
         margin: 0 auto;
         margin-bottom: $spacing-unit / 2;
-    } 
+    }
 }
