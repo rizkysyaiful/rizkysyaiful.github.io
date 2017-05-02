@@ -4,10 +4,10 @@
     {% endif %}
         <img  src="{{ site.url }}/assets/images/{{ include.img }}"
               alt="{{ include.title }}"
-              style="{% if include.max-width %}
-                max-width: {{include.max-width}};
+              {% if include.max-width %}
+                width="{{include.max-width}}";
               {% endif %}
-              "/>
+              />
     {% if include.url %}
     </a>
     {% endif %}
