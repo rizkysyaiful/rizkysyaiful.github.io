@@ -4,9 +4,18 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <div class="image-wrapper" >
+    <img  src="{{ site.url }}/assets/images/berlayar.jpg"
+          alt="Rizky Syaiful di Pulau Seribu"
+          style="margin-top:25px;max-width:550px;"/>
+    <p class="image-caption">
+      <em>A piece of star dust,<br>which get busy living,<br>while wait for the death.</em>
+    </p>
+  </div>
 
-  {{ content }}
+  <hr class="short">
+
+  <h1 class="page-heading">Posts</h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
