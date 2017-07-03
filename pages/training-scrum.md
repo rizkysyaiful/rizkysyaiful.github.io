@@ -138,6 +138,6 @@ Silahkan kontak annisa.sholiha@gmail.com untuk kebutuhan training Scrum.
 
 Selain training Scrum, Rizky juga bisa memberikan training Design Sprint &amp; Kanban.
 
-Selain training, Rizky juga menerima sesi konsultasi &amp; *speaking gig*. Beliau tertarik dengan topik inovasi yang disruptif, dalam meningkatkan kebahagiaan kolektif manusia.
+Selain training, Rizky juga menerima sesi konsultasi &amp; *speaking gig*. Di samping belajar ilmu pengelolaan pengembangan software, beliau juga tertarik dengan topik inovasi yang disruptif&mdash;dalam meningkatkan kebahagiaan kolektif manusia.
 
 Karena kesibukan akibat produk-produk inovatifnya, Rizky sedang tidak menerima *coaching* jangka panjang &amp; tawaran pekerjaan.
