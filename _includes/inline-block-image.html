@@ -1,0 +1,13 @@
+{% if include.url %}
+<a href="{{ include.url }}" title="{{ include.title }}" target="_blank">
+{% endif %}
+    <img  src="{{ site.url }}/assets/images/{{ include.img }}"
+          alt="{{ include.title }}"
+          style="float:left;"
+          {% if include.max-width %}
+            width="{{include.max-width}}"
+          {% endif %}
+          />
+{% if include.url %}
+</a>
+{% endif %}

@@ -43,12 +43,12 @@
 /** image on text */
 .image-wrapper {
     text-align: center;
-
+    margin-top: ($spacing-unit / 2) + 8;
+    margin-bottom: $spacing-unit / 2;
     .image-caption {
         color: $grey-color;
         max-width: 500px;
         margin: 0 auto;
-        margin-bottom: $spacing-unit / 2;
     }
 }
 
