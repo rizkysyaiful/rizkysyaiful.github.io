@@ -5,8 +5,6 @@ categories:
 permalink: /rekening
 ---
 
-# Rekening
-
 Semua di bawah ini adalah atas nama Rizky Syaiful
 
 - Mandiri (cab. FE UI) : 157 000 2511 740
