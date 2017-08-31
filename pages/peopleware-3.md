@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Di Suatu Tempat Hari Ini, Ada Proyek yang Gagal 
-permalink: /peopleware-1
+title:  Buat Burger Keju, Jual Burger Keju
+permalink: /peopleware-2
 ---
 
 Sebelum memulai proyek buku Peopleware. Tom & Tim ingin mengadakan riset. 
@@ -76,4 +76,3 @@ Perasaan tersebut, jika berlebihan, membuat mereka merasa lupa kalau mereka juga
 Industri yang masih muda ini (Peopleware ditulis di tahun 80-an) tidak sadar bahwa mereka masih punya PR dari sisi komunikasi, turnover yang tinggi, & manajemen ekspektasi.
 
 Peopleware ditulis untuk mengisi kekosongan tersebut.
-
