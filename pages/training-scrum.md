@@ -134,7 +134,7 @@ Berikut beberapa organisasi yang timnya pernah Rizky bantu sebagai konsultan sol
 
 ## Kontak
 
-Silahkan kontak annisa.sholiha@gmail.com untuk kebutuhan training Scrum.
+Silahkan kontak Vivi (WA: +62812-9295-534) untuk kebutuhan training Scrum.
 
 Selain training Scrum, Rizky juga bisa memberikan training Design Sprint &amp; Kanban.
 
