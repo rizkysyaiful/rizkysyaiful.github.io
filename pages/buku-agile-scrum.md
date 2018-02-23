@@ -74,7 +74,7 @@ Buku ini ditulis untuk menghilangkan kebingungan tersebut, dan tentunya, membant
           %}
 
 &nbsp;
-## Tertarik? 300 halaman, hanya Rp. 95.000!
+## Tertarik? 300 halaman, hanya Rp. 125.000!
 
 Meski tidak ada jatah penerbit, harga tinggi karena biaya [cetak Print on Demand](http://en.wikipedia.org/wiki/Print_on_demand#Book_publishing).
 
