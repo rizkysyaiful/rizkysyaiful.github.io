@@ -109,7 +109,7 @@ Artikel ini saya tulis tahun 2013. Ternyata respon pembaca amat positif. Setelah
 
 **Saya ingin semua orang Indonesia paham Metode EEL.** Karena itu, saya tidak ingin menyebarkan buku ini dalam bentuk PDF gratis. Kalau gratis, kemungkinan besar buku ini hanya akan masuk folder Download anda; lupa anda baca. Juga karena ingin tersebar luas, buku ini hanya dijual dalam bentuk fisik. Itu agar mudah terlihat orang sekitar.
 
-**Cukup lima puluh ribu (di luar ongkir), untuk mendapatkan buku ini. Harap transfer ke <a href="rekening" >rekening berikut</a>. Konfirmasi pemesanan: annisa.sholiha@gmail.com / 0857-1123-0476.**
+**Cukup sembilan puluh ribu (di luar ongkir), untuk mendapatkan buku ini. Harap transfer ke <a href="rekening" >rekening berikut</a>. Konfirmasi pemesanan: annisa.sholiha@gmail.com / 0857-1123-0476.**
 
 {% include image.html
             img="sales-buku-eel.jpg"
