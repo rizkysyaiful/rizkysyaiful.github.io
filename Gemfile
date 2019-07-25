@@ -12,7 +12,7 @@ ruby RUBY_VERSION
 
 gem "nokogiri", ">= 1.8.5"
 
-gem "jekyll", ">= 3.6.3"
+# gem "jekyll", ">= 3.6.3"
 
 gem "ffi", ">= 1.9.24"
 
@@ -30,6 +30,4 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-
-
 
