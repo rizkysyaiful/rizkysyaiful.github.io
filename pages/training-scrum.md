@@ -5,6 +5,10 @@ categories:
 permalink: /training-scrum
 ---
 
+Disclaimer: Mohon maaf. Saya sedang bekerja penuh waktu sebagai Culture & Engagement Lead di Alterra. Saya merekomendasikan Ramot Stephanus sebagai trainer Scrum. Beliau adalah juga co-founder [Agile Campus](https://agilecampus.org/) & pernah co-training dengan saya.
+
+---
+
 {% include image.html
           img="promo-training-scrum/1.png"
           title="Apa Kelebihan Training Rizky Syaiful?"
