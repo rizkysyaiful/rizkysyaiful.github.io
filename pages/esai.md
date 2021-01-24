@@ -5,11 +5,21 @@ categories:
 permalink: /esai
 ---
 
-#### How to Help Your Sister’s Early Career (2016)
+#### Golput Bukan Solusi: Argumen Singkat (2017)
+
+Berikut alasan-alasan untuk golput 15 Februari besok:
+
+1. “**Tidak ada yang saya kenal**. Ogah beli kucing dalam karung.”
+1. “**Tidak ada yang bagus.** Nanti kalau ada yang bagus — atau kalau ada yang amit-amit-jangan-sampai-terpilih — baru saya ke TPS.”
+1. “Ah, saya tidak percaya lagi dengan demokrasi. **Hasil akhirnya sama saja**.”
+
+Yang terakhir itu alasan saya golput di pileg 2009. Pemilu bertama saya. Langsung golput dan bangga. Pamer habis-habisan di Friendster waktu itu. ([read more at Medium](https://medium.com/indonesia-raya/golput-bukan-solusi-argumen-singkat-be2b8046d26c))
+
+#### 🇬🇧 How to Help Your Sister’s Early Career (2016)
 
 Just now, my second sister Putri texted me. We haven’t talk a lot — as I’ve been in Bandung for quite long time. She is quite anxious about choosing her college major. I want to reduce her anxiety. I’m not a typical person who believes that college major is so-that crucial for someone’s career. ([read more at Medium](https://medium.com/jurnal-rizky-syaiful/how-to-help-your-sisters-early-career-cdbf66fef8c6))
 
-#### Yakin Kamu Tidak Dirugikan Waktu? (2015)
+#### 🧕Yakin Kamu Tidak Dirugikan Waktu? (2015)
 
 Tahu surat ‘Waktu’ ? Salah satu surat pendek yang kita hafal sedari kecil. Mungkin sering kita baca saat solat. Tapi mungkin juga jarang kita telusuri maknanya. Um.. setidaknya saya sih seperti itu.
 
