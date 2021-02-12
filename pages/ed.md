@@ -2,7 +2,7 @@
 layout: page
 title:  "Apa Itu Bitcoin? Dan Kenapa Bisa Menyelamatkan Kita dari Krismon Di Masa Depan?"
 categories:
-permalink: /btc
+permalink: /ed
 ---
 
 Mei 1998, Indonesia menangis. Ribuan orang meninggal. Bukan karena bencana alam. Murni karena bodohnya umat manusia.
