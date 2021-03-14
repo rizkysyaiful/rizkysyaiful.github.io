@@ -33,12 +33,12 @@ Jika belum percaya, izinkan saya memberikan beberapa fakta & opini yang mendukun
 
 2. Berpeluang Memperbaiki Hidup Anak-Cucu Kita
   * [Bitcoin itu hanya meneruskan cita-cita luhur negara-negara dunia di Perjanjian Bretton Wood tahun 1944 lho.](#) <-- wajib baca!
-  * [Inflasi adalah pajak yang diambil secara paksa dari kantong-kantong rakyat jelata. Bitcoin punya peluang untuk menghilangkannya.)](#)
+  * [Inflasi adalah pajak yang diambil secara paksa dari kantong-kantong rakyat jelata. Bitcoin punya peluang untuk menghilangkannya.](#)
   * [Masih ingat krisis moneter 98? Bitcoin bisa meminimalisir peluang & dampak buruk krisis keuangan.](#)
 
 Sudah yakin dengan fakta-fakta kebaikan Bitcoin di atas? Juga opini-opini potensi revolusioner Bitcoin di masa depan?
 
-Sekarang, agar berimbang, mari kita tinjau juga 'keburukan-keburukan' Bitcoin. Ada benernya juga ga sih?
+Sekarang, agar berimbang, mari kita tinjau juga 'keburukan-keburukan' Bitcoin. Jangan-jangan ada benernya juga?
 
 1. [Bitcoin haram dalam Islam](#)
 1. [Bitcoin adalah uangnya para kriminal/teroris](#)
