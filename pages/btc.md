@@ -1,5 +1,5 @@
 ---
-layout: btc
+layout: page
 title:  "Bitcoin: Kunci Keadilan Sosial Bagi Seluruh Rakyat Dunia"
 categories:
 permalink: /btc
