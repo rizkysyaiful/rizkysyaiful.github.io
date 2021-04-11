@@ -99,11 +99,11 @@ Negara-negara kini lebih bebas mengatur suplai uang mereka sendiri.
 
 Pasca era Bretton Woods, nilai tukar uang negara-negara di dunia makin dipengaruhi permintaan-penawaran pasar -- termasuk menjadi 'gorengan' spekulan nakal yang bisa memicu krisis moneter. Bank-bank sentral sendiri mencoba menstabilkan nilai uang masing-masing dengan kebijakan-kebijakan fiskalnya -- ditemani amunisi cadangan emas & uang-uang negara besar (devisa).
 
-Menariknya, dolar US tetap menjadi mata uang perdagangan internasional & uang cadangan utama bank-bank sentral di seluruh dunia. Meski saat ini mulai ditantang mata uang lain akibat kekuatan ekonomi yang sudah lebih merata dibanding tahun 1980-an dulu.
+Menariknya, dolar US tetap menjadi mata uang perdagangan internasional & cadangan devisa utama bank-bank sentral di seluruh dunia. Meski saat ini mulai ditantang mata uang lain akibat kekuatan ekonomi yang sudah lebih merata dibanding tahun 1980-an dulu.
 
 Apakah jaman Soeharto lebih enak? Pemasukan kaum menengah ke bawah lebih besar? Belum tentu sebenarnya.
 
-Yang pasti, kesenjangan kaya-miskin belum terlalu parah di jaman Soeharto. Dan makin ke sini, terus-menerus makin parah. Kesenjangan ekonomi berujung ke kesenjangan sosial. Masyarakat makin terpolarisasi. Peluang konflik-konflik makin membesar. Mari kita bayangkan sebuah *alternate universe* Indonesia tahun 1997, di mana tidak ada satupun kaum/suku/ras/penganut agama yang dianggap unggul sendirian secara ekonomi. Apakah kerusuhan di krisis moneter 98 akan separah yang terjadi di *universe* kita ini?
+Yang pasti, kesenjangan kaya-miskin belum terlalu parah di jaman Soeharto. Dan makin ke sini, terus-menerus makin parah. Kesenjangan ekonomi berujung ke kesenjangan sosial. Masyarakat makin terpolarisasi. Peluang konflik-konflik makin membesar. Mari kita bayangkan sebuah *alternate universe* Indonesia tahun 1997, di mana tidak ada satupun kaum/suku/ras/penganut-agama yang dianggap unggul sendirian secara ekonomi. Apakah kerusuhan di krisis moneter 98 akan separah yang terjadi di *universe* kita ini?
 
 Suplai uang yang tidak lagi dipengaruhi oleh sesuatu yang terbatas seperti emas --> suplai uang bisa tidak terkontrol --> X --> kesenjangan ekonomi --> kesenjangan sosial --> krisis.
 
@@ -133,9 +133,9 @@ Mulai tahun 1970-an, secara perlahan, bank-bank di Amerika mulai dilonggarkan un
 
 Sayangnya, semuanya adalah mainan-mainan orang kaya. Orang kaya yang cukup cerdik bisa memanfaatkan kondisi ini untuk menjadi lebih kaya berkali-kali lipat. Sementara orang miskin yang sangat cerdik sekalipun belum tentu punya akses. 
 
-Efek jangka panjang deregulasi & pertumbuhan ekonomi yang pesat ini adalah krisis -- karena makin banyak pinjaman/usaha yang beresiko. Sebagaimana yang kita tahu di krisis moneter 97-98 di Indonesia, orang miskin-lah yang paling menderita. Di sisi lain, orang-orang kaya umumnya punya penasehat finansial, sehingga bisa mengatur investasi mereka di awal-awal krisis.
+Efek jangka panjang deregulasi & pertumbuhan ekonomi yang pesat ini adalah krisis -- karena makin banyak pinjaman/usaha yang beresiko. Sebagaimana yang kita tahu di krisis moneter 97-98 di Indonesia, orang miskin-lah yang paling menderita. Di sisi lain, orang-orang kaya umumnya punya penasehat finansial, sehingga bisa mengatur ulang investasi mereka di awal-awal krisis.
 
-Yang lebih menyedihkan lagi, sudah jadi norma bagi pemerintah untuk mencetak uang lebih banyak lagi, demi menyelamatkan bank-bank yang bangkrut -- akibat terlalu berani mengambil resiko investasi. Tujuan pemerintah mulia sebenarnya: untuk memadamkan api krisis perbankan sebelum meluas. Namun caranya lagi-lagi dengan mencetak uang baru, atau menggunakan uang pajak kita.
+Yang lebih menyedihkan lagi terkait krisis, pemerintah-pemerintah dunia biasa mencetak uang lebih banyak lagi, demi menyelamatkan bank-bank yang bangkrut -- akibat terlalu berani mengambil resiko investasi. Tujuan pemerintah mulia sebenarnya: untuk memadamkan api krisis perbankan sebelum meluas. Namun caranya lagi-lagi dengan mencetak uang baru, atau menggunakan uang pajak kita.
 
 Lengkap sudah *puzzle* kita:
 
@@ -145,7 +145,7 @@ Suplai uang yang tidak lagi dipengaruhi oleh sesuatu yang terbatas seperti emas 
 
 Kita sudah merasakan langsung manfaat dari perjanjian Bretton Woods, dan dampak buruk dari ketiadaannya.
 
-Masalah Bretton Woods itu cuma satu: kepercayaan. Bagaimana kita bisa yakin cadangan emas di US? US bisa saja berbohong tentang cadangan emasnya.
+Masalah Bretton Woods itu cuma satu: kepercayaan. Bagaimana kita bisa yakin cadangan emas di US sebesar yang diklaim? US bisa saja berbohong tentang cadangan emasnya.
 
 Jika di tahun 1944 ada teknologi, yang bisa mengaudit jumlah emas yang dimiliki oleh siapapun di dunia, Bretton Woods tidak akan runtuh. Pemasukan orang kaya, menengah, dan miskin akan tumbuh beriringan. Kesenjangan sosial tidak akan melebar.
 
@@ -159,11 +159,11 @@ Bitcoin adalah sejenis uang digital yang tidak bertuan, jumlahnya terbatas, dan 
 
 Bitcoin itu didesain lambat, cuma +/- 4 transaksi per-detik. Artinya, meskipun sama-sama berjudul 'uang', kegunaan utama Bitcoin adalah untuk menabung/investasi atau transaksi raksasa, bukan untuk menggantikan rupiah di transaksi sehari-hari. **Artinya, sebagaimana emas, Bitcoin dan uang negara bisa hidup berdampingan.**
 
-Menurut estimasi CIA, jika seluruh uang negara di dunai ditotal, nilainya bisa setara 80,000,000,000,000 (delapan puluh juta juta) dolar US. Karena Bitcoin memiliki jumlah maksimum, timbul pertanyaan, apakah Bitcoin sanggup untuk menggantikan emas seperti di era Bretton Woods? Karena jumlah uang yang beredar harus bisa meningkat seiring meningkatnya produksi umat manusia. Jawabannya bisa. Hanya ada maksimum 21 juta Bitcoin. Namun, satu Bitcoin itu bisa dipecah menjadi 100 juta Satoshi. **Artinya, bahkan jika perputaran ekonomi di dunia ini dikali 26 kali lipat, Bitcoin masih sanggup dijadikan alat tukar.** 
+Menurut estimasi CIA, jika seluruh uang negara di dunia ditotal, nilainya bisa setara 80,000,000,000,000 (delapan puluh juta juta) dolar US. Karena Bitcoin memiliki jumlah maksimum, timbul pertanyaan, apakah Bitcoin sanggup untuk menggantikan emas seperti di era Bretton Woods? Karena jumlah uang yang beredar harus bisa meningkat seiring meningkatnya produksi umat manusia. Jawabannya bisa. Hanya ada maksimum 21 juta Bitcoin. Namun, satu Bitcoin itu bisa dipecah menjadi 100 juta Satoshi. **Artinya, bahkan sampai nanti perputaran ekonomi di dunia ini membesar 26 kali lipat, Bitcoin masih sanggup dijadikan alat tukar.** 
 
-Namun tentu, tidak mungkin hanya ada 4 transaksi per-detik di dunia ini. Bitcoin jelas bukan alat tukar. Tujuan utama Bitcoin adalah menjadi cadangan devisa, bagi pihak yang akan menerbitkan alat tukar.
+Namun tentu, tidak mungkin hanya ada 4 transaksi per-detik di dunia ini. Bitcoin jelas bukan alat tukar. Tujuan utama Bitcoin adalah menjadi cadangan devisa, bagi si penerbit alat tukar. **Pemerintah tidak seharusnya menentang Bitcoin -- jika peduli dengan keadilan sosial bagi rakyatnya.**
 
-Bitcoin adalah emas baru, dengan tambahan fitur transfer online, audit publik, & kemerdekaannya dari pengaruh manusia.
+Bitcoin adalah emas baru, dengan **tambahan fitur transfer online, audit publik, & kemerdekaannya dari pengaruh manusia**.
 
 Jika penasaran, silahkan pelajari detail teknisnya:
 
@@ -208,9 +208,13 @@ Setelah memahami Bitcoin (barangnya, positifnya, & negatifnya), kita akan sadari
 
 Yang pertama adalah bencana alam level tata surya. Kemungkinan terjadinya amat sangat kecil.
 
-Yang kedua & ketiga peluangnya lebih besar, tapi tidak terjadi dalam semalam & masih bisa dipantau melalui berita. Ingat, keunggulan utama Bitcoin adalah ke-tidak-bertuanan-nya. Dibutuhkan waktu lama agar *trust* pada kompetitor-Bitcoin-yang-bertuan ini bisa tumbuh. Jadi, meskipun ada resiko harga Bitcoin jatuh setelah *launching*-nya mereka, mustahil terjadi dalam satu malam (bangun tidur lalu tiba-tiba harga Bitcoin kita jadi nol dan ga naik-naik lagi setelahnya). Sebagai penabung/investor Bitcoin, masih ada waktu untuk menjual sebagian Bitcoin lalu membeli 'Bitcoin-versi-institusi' tersebut.
+Yang kedua & ketiga peluangnya lebih besar, tapi tidak terjadi dalam semalam & masih bisa dipantau melalui berita. Ingat, keunggulan utama Bitcoin adalah ke-tidak-bertuanan-nya. Dibutuhkan waktu lama agar *trust* pada kompetitor-Bitcoin-yang-bertuan ini bisa tumbuh. Jadi, meskipun ada resiko harga Bitcoin jatuh setelah *launching*-nya mereka, mustahil terjadi dalam satu malam (bangun tidur lalu tiba-tiba harga Bitcoin kita jadi nol dan tidak naik lagi setelahnya). Sebagai penabung/investor Bitcoin, masih ada waktu untuk menjual sebagian Bitcoin lalu membeli 'Bitcoin-versi-institusi' tersebut.
 
-Artinya, menabung Bitcoin itu cerdas. Tapi untuk jaga-jaga, tabung juga emas dan instrumen-instrumen investasi lainnya juga -- meski sedikit.
+Jika akhirnya 'Bitcoin-versi-institusi' ini yang populer, saya yakin Satoshi Nakamoto (pencipta Bitcoin) tidak akan sedih. Karena tetap telah memicu tujuan akhir yang luhur: terciptanya keadilan sosial bagi seluruh rakyat dunia.
+
+--
+
+Menabung Bitcoin memang pilihan yang cerdas. Tapi jangan pula cinta buta. Bitcoin hanyalah alat, untuk keadilan sosial bagi rakyat dunia. Kebetulan sampai saat ini, Bitcoin adalah alat yang terbaik. Tetap baca berita-berita seputar Bitcoin.
 
 Sudah yakin dengan Bitcoin?
 
