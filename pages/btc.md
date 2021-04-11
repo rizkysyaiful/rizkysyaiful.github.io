@@ -43,6 +43,7 @@ Meski tumbuh beriringan sejak tahun 1940, terlihat di 2018, 20% keluarga termisk
           img="CBPP-penguasaan-harta.png"
           max-width="600px"
           caption="Grafik ini menunjukkan presentase penguasaan harta yang diakumulasi/disimpan oleh 1% & 0,5% orang terkaya di US."
+          %}
 
 Terlihat 30 tahun pasca Perang Dunia II (1945-1975) sekitar 30% dari total kekayaan di Amerika, dikuasai 1% orang terkaya. Di akhir 1970-an kesenjangan tersebut sedikit mengecil karena penguasaaan mereka tinggal 23%. Setelah itu kesenjangan ekonomi kembali drastis & konsisten meningkat. Di 2012 41% kekayaan kembali dikuasai 1% orang terkaya.
 
