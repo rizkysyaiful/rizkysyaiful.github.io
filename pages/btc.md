@@ -27,7 +27,7 @@ Pernah melihat meme Soeharto seperti ini?
 
 Tadinya saya kira itu hanya lawakan. Sampai saya menemukan data-data ini. Data yang menyatakan bahwa memang sejak tahun 1970-an:
 
-#### 1. Pendapatan orang-orang menengah ke bawah stagnan/menurun, sementara pendapatan orang-orang kaya melonjak drastis
+#### **1. Pendapatan orang-orang menengah ke bawah stagnan/menurun, sementara pendapatan orang-orang kaya melonjak drastis**
 
 {% include image.html
           img="CBPP-income-gain-discrepancy.png"
@@ -37,7 +37,7 @@ Tadinya saya kira itu hanya lawakan. Sampai saya menemukan data-data ini. Data y
 
 Meski tumbuh beriringan sejak tahun 1940, terlihat di 2018, 20% keluarga termiskin (garis biru) hampir stagnan pemasukannya setelah 1973. Sementara 5% keluarga terkaya (garis merah) hampir 2 kali lipat-nya 1973.
 
-#### 2. Harta 1% orang terkaya di dunia terus melonjak drastis.
+#### **2. Harta 1% orang terkaya terus melonjak drastis.**
 
 {% include image.html
           img="CBPP-penguasaan-harta.png"
@@ -49,7 +49,7 @@ Terlihat 30 tahun pasca Perang Dunia II (1945-1975) sekitar 30% dari total kekay
 
 Hal besar apa yang terjadi di tahun 1970-an? Kenapa bisa konsisten meningkatkan kesenjangan ekonomi selama berpuluh-puluh tahun sampai sekarang? Apakah hanya terjadi di US?
 
-#### 3. Ini tidak hanya terjadi di Amerika Serikat
+#### **3. Ini tidak hanya terjadi di Amerika Serikat**
 
 {% include image.html
           img="KENOSHAKING-hyperinflation.jpg"
@@ -113,7 +113,7 @@ Masih ada satu keping *puzzle* yang hilang. Apa itu X?
 
 Jawabannya ada dua:
 
-#### 1. Efek Cantillon
+#### **1. Efek Cantillon**
 
 Karena uang tidak netral -- dia berpihak. Jika suplai uang tiba-tiba berlimpah, dia harus mengalir lewat institusi besar & orang kaya terlebih dahulu, dompet kaum menengah, baru ke tangan orang miskin.
 
@@ -123,7 +123,7 @@ Makin dekat posisi kita dengan raja, makin besar akses kita ke emas-emas baru te
 
 Masalah selanjutnya yang diterawang Cantillon, adalah larinya sejumlah besar emas tersebut ke luar kerajaan. Karena orang-orang kaya kemungkinan besar membelanjakannya ke barang-barang impor konsumtif. Selain mengurangi kekayaan kerajaan, hal ini juga membunuh industri internal kerjaan (jika ada versi yang lebih murahnya di dalam).
 
-#### 2. Deregulasi & Bertambahnya 'Mainan' Orang Kaya
+#### **2. Deregulasi & Bertambahnya 'Mainan' Orang Kaya**
 
 Runtuhnya perjanjian Bretton Woods bisa dianggap sebagai sebuah deregulasi -- lebih tepatnya deregulasi pencetakan uang. Hulu berubah, hilirpun ikut berubah.
 
@@ -157,13 +157,13 @@ Bitcoin adalah sejenis uang digital yang tidak bertuan, jumlahnya terbatas, dan 
 
 (gambar bitcoin dan mata uang dunia lainnya)
 
-Bitcoin itu didesain lambat, cuma +/- 4 transaksi per-detik. Artinya, meskipun sama-sama berjudul 'uang', kegunaan utama Bitcoin adalah untuk menabung/investasi atau transaksi raksasa, bukan untuk menggantikan rupiah di transaksi sehari-hari. **Artinya, sebagaimana emas, Bitcoin dan uang negara bisa hidup berdampingan.**
+Bitcoin itu didesain lambat, cuma +/- 4 transaksi per-detik. Artinya, meskipun sama-sama berjudul 'uang', kegunaan utama Bitcoin adalah untuk menabung/investasi atau transaksi raksasa, bukan untuk menggantikan rupiah di transaksi sehari-hari. **Artinya, sebagaimana emas, Bitcoin dan uang-uang terbitan bank sentral bisa hidup berdampingan.**
 
-Menurut estimasi CIA, jika seluruh uang negara di dunia ditotal, nilainya bisa setara 80,000,000,000,000 (delapan puluh juta juta) dolar US. Karena Bitcoin memiliki jumlah maksimum, timbul pertanyaan, apakah Bitcoin sanggup untuk menggantikan emas seperti di era Bretton Woods? Karena jumlah uang yang beredar harus bisa meningkat seiring meningkatnya produksi umat manusia. Jawabannya bisa. Hanya ada maksimum 21 juta Bitcoin. Namun, satu Bitcoin itu bisa dipecah menjadi 100 juta Satoshi. **Artinya, bahkan sampai nanti perputaran ekonomi di dunia ini membesar 26 kali lipat, Bitcoin masih sanggup dijadikan alat tukar.** 
+Menurut estimasi CIA, jika seluruh uang negara di dunia ditotal, nilainya bisa setara 80,000,000,000,000 (delapan puluh juta juta) dolar US. Karena Bitcoin memiliki jumlah maksimum, timbul pertanyaan, apakah Bitcoin sanggup untuk menggantikan emas seperti di era Bretton Woods? Perlu diketahui, jumlah uang yang beredar harus terus bisa meningkat seiring meningkatnya produksi barang/jasa umat manusia. Jawabannya bisa. Hanya ada maksimum 21 juta Bitcoin. Namun, satu Bitcoin masih bisa dipecah menjadi 100 juta Satoshi. 2,100 juta juta Satoshi dibagi 80 juta juta dolar US, hasilnya 26,25. **Artinya, bahkan sampai nanti perputaran ekonomi di dunia ini membesar 26 kali lipat dari sekarang, Bitcoin masih sanggup dijadikan alat tukar.** 
 
 Namun tentu, tidak mungkin hanya ada 4 transaksi per-detik di dunia ini. Bitcoin jelas bukan alat tukar. Tujuan utama Bitcoin adalah menjadi cadangan devisa, bagi si penerbit alat tukar. **Pemerintah tidak seharusnya menentang Bitcoin -- jika peduli dengan keadilan sosial bagi rakyatnya.**
 
-Bitcoin adalah emas baru, dengan **tambahan fitur transfer online, audit publik, & kemerdekaannya dari pengaruh manusia**.
+Bitcoin adalah emas baru, dengan **tambahan tiga fitur: transfer online, audit transaksi/saldo publik, & kemerdekaannya dari pengaruh manusia**.
 
 Jika penasaran, silahkan pelajari detail teknisnya:
 
@@ -188,7 +188,7 @@ Jika belum percaya, izinkan saya memberikan beberapa fakta & opini berikut:
 
 Sudah yakin dengan fakta-fakta kebaikan Bitcoin di atas? Juga opini-opini potensi revolusioner Bitcoin di masa depan?
 
-Sekarang, agar berimbang, mari kita tinjau juga 'keburukan-keburukan' Bitcoin. Jangan-jangan ada benernya juga?
+Sekarang, agar berimbang, mari kita tinjau juga 'keburukan-keburukan' Bitcoin. Jangan-jangan ada benarnya juga?
 
 1. [Bitcoin haram dalam Islam](#)
 1. [Bitcoin adalah uangnya para kriminal/teroris](#)
@@ -200,21 +200,23 @@ Sekarang, agar berimbang, mari kita tinjau juga 'keburukan-keburukan' Bitcoin. J
 1. [Bitcoin dikuasai Cina](#)
 1. [Bitcoin akan dikalahkan uang kripto non-pemerintah lainnya](#)
 
-Setelah memahami Bitcoin (barangnya, positifnya, & negatifnya), kita akan sadari, cuma tiga hal yang bisa membuat permintaan Bitcoin tiba-tiba berkurang, sehingga menunda pertumbuhannya:
+Setelah memahami Bitcoin (barangnya, positifnya, & negatifnya), kita akan sadari, cuma tiga hal yang bisa membuat permintaan Bitcoin tiba-tiba berkurang, menunda pertumbuhannya, atau bahkan meruntuhkan permintaan terhadapnya:
 
 1. Internet / barang elektronik tiba-tiba lumpuh.
-2. [PBB / Bank Dunia / IMF tiba-tiba membuat Bitcoin tandingan yang memiliki SEMUA keunggulan Bitcoin -- tentu kecuali ke-tidak-bertuanan-nya.](#)
+2. [PBB / Bank Dunia / IMF tiba-tiba membuat Bitcoin tandingan yang memiliki SEMUA keunggulan Bitcoin -- tentu kecuali ke-tidak-bertuanan-nya. Lalu mengajak bank sentral diseluruh dunia untuk menjadikannya sebagai cadangan devisa utama.](#)
 3. [Sama seperti poin nomor 2, tapi 'tuan'-nya bukan badan pemerintahan level dunia, melainkan perusahaan (atau sekumpulan perusahaan) selevel Google, Amazon, atau Facebook.](#)
 
 Yang pertama adalah bencana alam level tata surya. Kemungkinan terjadinya amat sangat kecil.
 
 Yang kedua & ketiga peluangnya lebih besar, tapi tidak terjadi dalam semalam & masih bisa dipantau melalui berita. Ingat, keunggulan utama Bitcoin adalah ke-tidak-bertuanan-nya. Dibutuhkan waktu lama agar *trust* pada kompetitor-Bitcoin-yang-bertuan ini bisa tumbuh. Jadi, meskipun ada resiko harga Bitcoin jatuh setelah *launching*-nya mereka, mustahil terjadi dalam satu malam (bangun tidur lalu tiba-tiba harga Bitcoin kita jadi nol dan tidak naik lagi setelahnya). Sebagai penabung/investor Bitcoin, masih ada waktu untuk menjual sebagian Bitcoin lalu membeli 'Bitcoin-versi-institusi' tersebut.
 
-Jika akhirnya 'Bitcoin-versi-institusi' ini yang populer, saya yakin Satoshi Nakamoto (pencipta Bitcoin) tidak akan sedih. Karena tetap telah memicu tujuan akhir yang luhur: terciptanya keadilan sosial bagi seluruh rakyat dunia.
+Jika akhirnya 'Bitcoin-versi-institusi' inilah yang populer, saya yakin Satoshi Nakamoto (pencipta Bitcoin) tidak akan sedih. Karena tetap telah memicu tujuan akhir yang luhur: terciptanya keadilan sosial bagi seluruh rakyat dunia.
 
 --
 
-Menabung Bitcoin memang pilihan yang cerdas. Tapi jangan pula cinta buta. Bitcoin hanyalah alat, untuk keadilan sosial bagi rakyat dunia. Kebetulan sampai saat ini, Bitcoin adalah alat yang terbaik. Tetap baca berita-berita seputar Bitcoin.
+Menabung Bitcoin memang pilihan yang cerdas. Tapi jangan pula cinta buta.
+
+Bitcoin hanyalah salah satu alat, untuk keadilan sosial bagi seluruh rakyat dunia. Kebetulan sampai saat ini, Bitcoin adalah alat yang terbaik. Tetap baca berita-berita terbaru seputar Bitcoin, untuk memantau kemungkinan 'Bitcoin-versi-institusi'.
 
 Sudah yakin dengan Bitcoin?
 
