@@ -26,7 +26,9 @@ Lebih dari karir & kekayaan, inilah investasi yang sesungguhnya.
 
 #### **2. Fundamentalis**
 
-Dapat satu data lagi, yang mengonfirmasi bahwa karir saya berputar di hal-hal yang **bold** alias fundamental. Saya masuk Alterra dengan niat bekerja saja -- agar bisa menabung untuk ke Inggris temani istri yang kuliah. Kalau tetap jadi trainer Agile Software Development, pemasukan saya tentu tidak tentu.
+Dapat satu data lagi, yang mengonfirmasi bahwa karir saya berputar di hal-hal yang **bold** alias fundamental.
+
+Saya masuk Alterra dengan niat bekerja saja -- agar bisa menabung untuk ke Inggris temani istri yang kuliah. Kalau tetap jadi trainer Agile Software Development, pemasukan saya tentu tidak tentu.
 
 Di Alterra, saya malah memicu ide [PO Box](https://po-box.alterra.id) &amp; The Alterrans Team. Keduanya adalah *tools* baru untuk membantu pegawai Alterra agar lebih produktif. Mereka menyentuh hal-hal mendasar dalam interaksi pekerja di organisasi.
 
@@ -69,3 +71,5 @@ Hasil risetnya sedang saya tuangkan di [BitcoinCadanganDevisa.github.io](https:/
 
 <br>
 Sekian. Sampai jumpa di 29 April 2022. :)
+
+Bonus: Di umur 30, akhirnya tautan lama ke [tujuan hidup saya](https://www.quora.com/Have-you-found-your-life-purpose-and-if-so-how-did-you-do-it/answer/Rizky-Syaiful) ditaruh ke signature email.
