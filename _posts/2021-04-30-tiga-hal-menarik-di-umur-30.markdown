@@ -24,9 +24,9 @@ Saya dan istri percaya, meski tidak 100%, orang tua (atau pengasuh pada umumnya)
 
 Lebih dari karir & kekayaan, inilah investasi yang sesungguhnya.
 
-#### **2. Fundamentalis**
+#### **2. Bold**
 
-Dapat satu data lagi, yang mengonfirmasi bahwa karir saya berputar di hal-hal yang **bold** alias fundamental.
+Dapat satu data lagi, yang mengonfirmasi bahwa karir saya berputar di hal-hal yang **bold** ('bold' di sini sesuatu yang tujuannya mendasar & baru &mdash; belum tentu berhasil jika diterapkan). 
 
 Saya masuk Alterra dengan niat bekerja saja -- agar bisa menabung untuk ke Inggris temani istri yang kuliah. Kalau tetap jadi trainer Agile Software Development, pemasukan saya tentu tidak tentu.
 
@@ -36,7 +36,7 @@ Mungkin ini bawaan diri. Mungkin juga dipengaruhi *deadline* -- dari awal saya t
 
 > Di waktu yang sempit ini, saya ingin meninggalkan sesuatu yang terus dipakai karena besar manfaatnya.
 
-Menjadi seorang fundamentalis punya *drawback* tentunya. Saya tidak bisa seoptimal yang lain dalam melayani/membantu agenda-agenda rekan kerja, juga operasional sehari-hari. Untungnya, Alterra amat mendukung inovasi *bottom-up* & *goal-goal* fundamental PO Box serta The Alterran Team bisa diselaraskan dengan dengan *goal* perusahaan. 
+Mengerjakan sesuatu yang **bold** punya *drawback* tentunya. Saya tidak bisa seoptimal yang lain dalam melayani/membantu agenda-agenda rekan kerja, juga operasional sehari-hari. Untungnya, Alterra amat mendukung inovasi *bottom-up* & *goal-goal* fundamental PO Box serta The Alterran Team bisa diselaraskan dengan dengan *goal* perusahaan. 
 
 #### **3. Bitcoin**
 
